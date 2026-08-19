@@ -1,7 +1,7 @@
+tensorflow==2.19.0
 streamlit==1.49.02
 pandas==2.3.23
 numpy==2.3.24
 matplotlib==3.10.65
 scikit-learn==1.7.26
 scipy==1.16.17
-tensorflow==2.19.0
