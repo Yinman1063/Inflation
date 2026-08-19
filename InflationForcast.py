@@ -12,6 +12,7 @@ from functools import lru_cache
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import TimeSeriesSplit
+import tensorflow 
 
 # Page set up and layout
 st.set_page_config(
