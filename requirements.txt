@@ -1,3 +1,4 @@
+pip>=25.0
 tensorflow==2.19.0
 streamlit==1.49.02
 pandas==2.3.23
