@@ -17,8 +17,8 @@ from sklearn.model_selection import TimeSeriesSplit
 # Page set up and layout
 st.set_page_config(
     layout="wide",
-    page_icon="C:/Users/emmanuel.kolog/BOG_Projects/Inflation_Forcasting/Images/img_1.png"
-)
+    page_icon="https://github.com/Yinman1063/Inflation/blob/main/Images/img_1.png"
+) 
 st.image(
     "C:/Users/emmanuel.kolog\BOG_Projects/Inflation_Forcasting/Images/img_2.png",
     width="stretch"
