@@ -12,7 +12,7 @@ from functools import lru_cache
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import TimeSeriesSplit
-import tensorflow 
+import tensorflow as tf
 
 # Page set up and layout
 st.set_page_config(
@@ -28,7 +28,6 @@ st.image(
 
 def load_tf():
     try:
-        import tensorflow as tf
         from tensorflow import keras
         from tensorflow.keras import layers
         return tf, keras, layers
