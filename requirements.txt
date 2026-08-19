@@ -1,5 +1,5 @@
 pip>=25.0
-tensorflow==2.18.0
+tensorflow-cpu==2.12.0
 streamlit==1.49.02
 pandas==2.3.23
 numpy==2.3.24
