@@ -20,7 +20,7 @@ st.set_page_config(
     page_icon="https://github.com/Yinman1063/Inflation/blob/main/Images/img_1.png"
 ) 
 st.image(
-    "C:/Users/emmanuel.kolog\BOG_Projects/Inflation_Forcasting/Images/img_2.png",
+    "https://github.com/Yinman1063/Inflation/blob/main/Images/img_2.png",
     width="stretch"
 )
 
